@@ -41,4 +41,4 @@ app.use(globalErrorHandler);
 module.exports = { app };
 
 //Random json web token
-//const crypto = require('crypto').randomBytes(50).toString('hex')
+// const crypto = require('crypto').randomBytes(50).toString('hex')
